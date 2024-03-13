@@ -1,4 +1,4 @@
-# reto_4_pdc
+# Reto 4: solución
 ### La solución está en el archivo reto_4.ipynb, sin embargo acá los codigos individuales
 #### Ejercicio 1
 ```python
